@@ -1,9 +1,13 @@
 
 
 :root {
-    --black: #000;
+    --black: #040507;
+    --cream: #f9f1f0;
+    --dusty-rose: #f8afa6;
     --gold-1: #d3ac66;
     --gold-2: #eed033;
+    --rose-quartz: #fadcd9;
+    --white: #ffffff;
 }
 
 h1 {
