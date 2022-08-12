@@ -1,3 +1,10 @@
+
+
+:root {
+    --black: #000;
+    --gold: #ddbc00;
+}
+
 h1 {
     font-family: Cookie, sans-serif;
 }
