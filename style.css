@@ -9,7 +9,6 @@ body {
     --gold-1: #d3ac66;
     --gold-2: #eed033;
     --rose-gold: #b76e79;
-    --rose-quartz: #fadcd9;
     --white: #ffffff;
 }
 
@@ -27,18 +26,6 @@ h1 {
 
 .color3 {
     color: var(--rose-gold);
-}
-
-.color4 {
-    color: var(--rose-quartz);
-} 
-
-.color5 {
-    color: var(--white);
-}
-
-.color6 {
-    color: var(--dusty-rose);
 }
 
 .color7 {
