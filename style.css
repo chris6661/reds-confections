@@ -1,11 +1,11 @@
 body {
-    background-color: #040507;
+    margin: 0 auto;
 }
 
 :root {
     --black: #040507;
     --cream: #f9f1f0;
-    --dusty-rose: #f8afa6;
+    /* --dusty-rose: #f8afa6; */
     --gold-1: #d3ac66;
     --gold-2: #eed033;
     --rose-gold: #b76e79;
@@ -16,18 +16,20 @@ h1 {
     font-family: Cookie, sans-serif;
 }
 
-.color1 {
-    color: var(--gold-1);
+.about img {
+    max-width:100%;
+    height:auto;
+  }
+
+/*** GALLERY ***/
+
+.gallery {
+    height: 500px;
+    width: 500px; 
 }
 
-.color2 {
-    color: var(--gold-2);
-}
-
-.color3 {
-    color: var(--rose-gold);
-}
-
-.color7 {
-    color: var(--cream);
+.gallery img {
+    height: 100%; 
+    /* width: 100%; */
+    /* display: flex;  */
 }
