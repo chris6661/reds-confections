@@ -12,12 +12,13 @@ body {
     --white: #ffffff;
 }
 
-h1 {
-    font-family: Cookie, sans-serif;
+.about {
+    height: auto; 
+    width: auto;
 }
 
 .about img {
-    max-width:100%;
+    max-width:500px;
     height:auto;
   }
 
